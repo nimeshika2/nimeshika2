@@ -179,6 +179,15 @@ header {
         height: 100%;
     }
 }
+#btn99{
+padding: 0.5em;
+border-radius: 0.3em;
+color: whitesmoke;
+font-size: 1.5em;
+background: rgb(26, 212, 212);
+cursor: pointer; /*カーソルをポインターの形（かたち）にする*/
+}
+
 
 @media screen and (max-width: 480px ) {
     body{
